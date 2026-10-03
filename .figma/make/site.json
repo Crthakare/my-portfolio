@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a senior Physical Design Engineer's expertise with interactive 3D visuals and detailed semiconductor engineering portfolio for recruiters and peers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
